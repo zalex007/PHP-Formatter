@@ -1,3 +1,5 @@
+// test
+
 var subScriptLoader = Components.classes["@mozilla.org/moz/jssubscript-loader;1"].getService(Components.interfaces.mozIJSSubScriptLoader);
 subScriptLoader.loadSubScript('chrome://selenium-ide/content/formats/remoteControl.js', this);
 
